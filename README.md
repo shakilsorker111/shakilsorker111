@@ -54,9 +54,9 @@
 
 Here are some of my best works:
 
-- 🚀 [Project 1 Name](https://service-review-6ce18.web.app/): Description + Tech used.
-- 🌐 [Project 2 Name](https://leafy-sundae-6a9313.netlify.app/): Description + Tech used.
-- 📱 [Project 3 Name](https://flourishing-marzipan-6dd83c.netlify.app/): Description + Tech used.
+- 🚀 [Project 1 Name: Service](https://service-review-6ce18.web.app/): Description + Tech used.
+- 🌐 [Project 2 Name: Hobby](https://hobby-103c3.web.app/): Description + Tech used.
+- 📱 [Project 3 Name: Events](https://events-e2eef.web.app/): Description + Tech used.
 
 ---
 
