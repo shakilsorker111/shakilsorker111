@@ -40,3 +40,49 @@ I enjoy solving real-world problems and building full-featured web applications 
 </p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdsakilhossain&layout=compact&theme=react)
+
+### 📌 Featured Projects
+
+Here are some of my best works:
+
+- 🚀 [Project 1 Name: Service](https://service-review-6ce18.web.app/):
+- Description: A platform where people can discover many types of services or create their own and add review of services.
+-  Tech used:
+     1. react router,
+     2. tailwind css,
+     3. react-helmet-async,
+     4. react-icons,
+     5. daisyui,
+     6. swiper,
+     7. toast/sweet alert,
+     8. helmet async,
+     9. simple-typewriter,
+     10. react-countup,
+     11. framer-motion,
+- 🌐 [Project 2 Name: Hobby](https://hobby-103c3.web.app/):
+- Description: A platform where people can discover and join local hobby-based groups or create their own.
+- Tech used:
+    1. react router,
+    2. tailwind css,
+    3. react-helmet-async,
+    4. react-icons,
+    5. daisyui,
+    6. swiper,
+    7. toast/sweet alert,
+    8. helmet async,
+    9. simple-typewriter,
+    10. lottie-react,
+- 📱 [Project 3 Name: Events](https://events-e2eef.web.app/):
+- Description: Manage local events like tech events and etc.
+- Tech used:
+    1. react router,
+    2. tailwind css,
+    3. react-helmet-async,
+    4. react-icons,
+    5. daisyui,
+    6. swiper,
+    7. toast/sweet alert,
+    8. helmet async,
+
+---
+
