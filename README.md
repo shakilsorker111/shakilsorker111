@@ -54,7 +54,18 @@
 
 Here are some of my best works:
 
-- 🚀 [Project 1 Name: Service](https://service-review-6ce18.web.app/): Description + Tech used.
+- 🚀 [Project 1 Name: Service](https://service-review-6ce18.web.app/):
+- Description:
+-  Manage local events like tech events and etc.
+-  Tech used:
+-   1. react router,
+    2. tailwind css,
+    3. react-helmet-async,
+    4. react-icons,
+    5. daisyui,
+    6. swiper,
+    7. toast/sweet alert,
+    8. helmet async,
 - 🌐 [Project 2 Name: Hobby](https://hobby-103c3.web.app/): Description + Tech used.
 - 📱 [Project 3 Name: Events](https://events-e2eef.web.app/): Description + Tech used.
 
