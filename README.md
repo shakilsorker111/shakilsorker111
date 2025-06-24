@@ -42,6 +42,14 @@
 
 ---
 
+### 📊 GitHub Trophies
+
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=mdsakilhossain&theme=darkhub" />
+</p>
+
+---
+
 ### 📌 Featured Projects
 
 Here are some of my best works:
