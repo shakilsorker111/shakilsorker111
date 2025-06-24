@@ -55,10 +55,23 @@
 Here are some of my best works:
 
 - 🚀 [Project 1 Name: Service](https://service-review-6ce18.web.app/):
-- Description:
--  Manage local events like tech events and etc.
+- Description: A platform where people can discover many types of services or create their own and add review of services.
 -  Tech used:
--   1. react router,
+     1. react router,
+     2. tailwind css,
+     3. react-helmet-async,
+     4. react-icons,
+     5. daisyui,
+     6. swiper,
+     7. toast/sweet alert,
+     8. helmet async,
+     9. simple-typewriter,
+     10. react-countup,
+     11. framer-motion,
+- 🌐 [Project 2 Name: Hobby](https://hobby-103c3.web.app/):
+- Description: A platform where people can discover and join local hobby-based groups or create their own.
+- Tech used:
+    1. react router,
     2. tailwind css,
     3. react-helmet-async,
     4. react-icons,
@@ -66,8 +79,19 @@ Here are some of my best works:
     6. swiper,
     7. toast/sweet alert,
     8. helmet async,
-- 🌐 [Project 2 Name: Hobby](https://hobby-103c3.web.app/): Description + Tech used.
-- 📱 [Project 3 Name: Events](https://events-e2eef.web.app/): Description + Tech used.
+    9. simple-typewriter,
+    10. lottie-react,
+- 📱 [Project 3 Name: Events](https://events-e2eef.web.app/):
+- Description: Manage local events like tech events and etc.
+- Tech used:
+    1. react router,
+    2. tailwind css,
+    3. react-helmet-async,
+    4. react-icons,
+    5. daisyui,
+    6. swiper,
+    7. toast/sweet alert,
+    8. helmet async,
 
 ---
 
