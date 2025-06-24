@@ -54,9 +54,9 @@
 
 Here are some of my best works:
 
-- 🚀 [Project 1 Name](https://github.com/your-username/project1): Description + Tech used.
-- 🌐 [Project 2 Name](https://github.com/your-username/project2): Description + Tech used.
-- 📱 [Project 3 Name](https://github.com/your-username/project3): Description + Tech used.
+- 🚀 [Project 1 Name](https://service-review-6ce18.web.app/): Description + Tech used.
+- 🌐 [Project 2 Name](https://leafy-sundae-6a9313.netlify.app/): Description + Tech used.
+- 📱 [Project 3 Name](https://flourishing-marzipan-6dd83c.netlify.app/): Description + Tech used.
 
 ---
 
