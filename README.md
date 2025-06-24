@@ -1,16 +1,61 @@
-## Hi there 👋
 
-<!--
-**shakilsorker111/shakilsorker111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm MD. Sakil Hossain</h1>
+<h3 align="center">A passionate Full Stack Web Developer from Bangladesh</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer;MERN+Stack+Expert;React+%7C+Node.js+%7C+MongoDB;Open+Source+Enthusiast" alt="Typing SVG" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧑‍💻 About Me
+
+- 🌱 I’m currently learning: **Next.js, TypeScript, GraphQL**
+- 🔭 I’m currently working on: **[Project Name or Freelance Work]**
+- 💬 Ask me about: **React, Node.js, MongoDB, Firebase, Tailwind CSS**
+- 📫 How to reach me: **[shakilsorker111@gmail.com](mailto:shakilsorker111@gmail.com)**
+- ⚡ Fun fact: **I love solving real-world problems with code**
+
+---
+
+### 🛠️ Technologies & Tools
+
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb)
+![Express](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express)
+![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
+![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mdsakilhossain&show_icons=true&theme=radical" alt="sakil's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdsakilhossain&theme=radical" alt="GitHub Streak" />
+</p>
+
+---
+
+### 📌 Featured Projects
+
+Here are some of my best works:
+
+- 🚀 [Project 1 Name](https://github.com/your-username/project1): Description + Tech used.
+- 🌐 [Project 2 Name](https://github.com/your-username/project2): Description + Tech used.
+- 📱 [Project 3 Name](https://github.com/your-username/project3): Description + Tech used.
+
+---
+
+### 🔗 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="mailto:shakilsorker111@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/mdsakilhossain"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" /></a>
+</p>
