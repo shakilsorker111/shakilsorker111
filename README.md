@@ -45,7 +45,27 @@ I enjoy solving real-world problems and building full-featured web applications 
 
 Here are some of my best works:
 
-- 🚀 [Project 1 Name: Service](https://service-review-6ce18.web.app/):
+- 🚀 [Matrimony](https://matrimony-a0f98.web.app/):
+- Description: A full-featured matrimony platform built with the MERN stack to help individuals find life partners through secure biodata sharing,
+premium services, and success story management.
+-  Tech used:
+     1. react router,
+     2. tailwind css,
+     3. react-helmet-async,
+     4. react-icons,
+     5. daisyui,
+     6. swiper,
+     7. toast/sweet alert,
+     8. helmet async,
+     9. simple-typewriter,
+     10. react-countup,
+     11. framer-motion,
+     12. firebase auth,
+     13. jwt,
+     14. stripe.js,
+     15. tanstack query
+
+- 🚀 [Service](https://service-review-6ce18.web.app/):
 - Description: A platform where people can discover many types of services or create their own and add review of services.
 -  Tech used:
      1. react router,
@@ -59,7 +79,9 @@ Here are some of my best works:
      9. simple-typewriter,
      10. react-countup,
      11. framer-motion,
-- 🌐 [Project 2 Name: Hobby](https://hobby-103c3.web.app/):
+     12. firebase auth,
+     13. jwt,
+- 🌐 [Hobby](https://hobby-103c3.web.app/):
 - Description: A platform where people can discover and join local hobby-based groups or create their own.
 - Tech used:
     1. react router,
@@ -72,7 +94,7 @@ Here are some of my best works:
     8. helmet async,
     9. simple-typewriter,
     10. lottie-react,
-- 📱 [Project 3 Name: Events](https://events-e2eef.web.app/):
+- 📱 [Events](https://events-e2eef.web.app/):
 - Description: Manage local events like tech events and etc.
 - Tech used:
     1. react router,
