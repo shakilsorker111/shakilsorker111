@@ -27,9 +27,9 @@ I enjoy solving real-world problems and building full-featured web applications 
 ---
 
 ## 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/your-link)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](www.linkedin.com/in/sakil111)
 [![Gmail](https://img.shields.io/badge/Email-red?logo=gmail&style=for-the-badge)](mailto:shakilsorker111@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel)](https://your-portfolio-link.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel)](https://stalwart-nougat-a8915d.netlify.app/)
 
 ---
 
